@@ -1,5 +1,5 @@
 # Comparative Analysis of Spam Email Detection 
-[Notebook preview](https://nbviewer.org/github/alina-tabish/SpamEmailDetection/blob/main/Comparative-Analysis-SpamEmailDetection.ipynb)
+[Notebook preview](https://nbviewer.org/github/alina-tabish/ComparativeAnalysis-SpamEmailDetection/blob/main/Machine%20Learning%20Techniques%20for%20Spam%20Detection%20in%20Email_A%20Comparative%20Analysis.ipynb)
 
 ### Domain -> Text Mining
 
